@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a6b6c4ee-776c-4bef-ace9-e07f1c55853b" solutionId="a6b6c4ee-776c-4bef-ace9-e07f1c55853b" resetWebServer="false" sharePointProductVersion="15.0" name="Covance.TEW_2013" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="c39c3c4e-a58a-4e34-b445-f5b68857ad1f" />
+  </features>
+</package>
