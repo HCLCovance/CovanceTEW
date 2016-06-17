@@ -66,7 +66,6 @@ namespace Covance.TEW_2013.SubmitFeedback
         protected SPList GetListFromSiteRoot(String ListName)
         {
             SPList List = null;
-
             try
             {
                 List = SPContext.Current.Web.Site.RootWeb.Lists[ListName];
