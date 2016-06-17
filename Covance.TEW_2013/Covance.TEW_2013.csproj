@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Lists\Communications.cs" />
+    <Compile Include="Lists\CovanceWebPart.cs" />
     <Compile Include="Lists\Events.cs" />
     <Compile Include="Lists\FAQs.cs" />
     <Compile Include="Lists\Feedback.cs" />
