@@ -50,7 +50,7 @@ namespace Covance.TEW_2013.SubmitFeedback
                 FeedbackList = GetListFromSiteRoot(new FeedbackListDefinition().Title);
                 ProjectList = GetListFromSiteRoot(new ProjectsListDefinition().Title);
                 oquery.Query = "<OrderBy><FieldRef Name ='Project_x0020_Title' Ascending='TRUE' /></OrderBy>";
-                ProjectItems = GetListItems(ProjectList, oquery);
+                ProjectItems = GetListItems(ProjectList, oquery); 
                 CreateFeedbackForm();
 
                 if (!Page.IsPostBack)
